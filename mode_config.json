@@ -1,0 +1,20 @@
+{
+  "default_mode": "calm",
+  "modes": {
+    "calm": {
+      "name": "Calm Mode",
+      "threshold": 0.3,
+      "color": "#79ffa3"
+    },
+    "alert": {
+      "name": "Alert Mode",
+      "threshold": 0.68,
+      "color": "#ff6b6b"
+    },
+    "critical": {
+      "name": "Critical Mode",
+      "threshold": 0.85,
+      "color": "#ff0000"
+    }
+  }
+}

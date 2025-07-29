@@ -1,0 +1,14 @@
+{
+  "default": {
+    "template_id": "default",
+    "output_style": "short",
+    "prefix": "要約：",
+    "suffix": "（以上）"
+  },
+  "emergency": {
+    "template_id": "emergency",
+    "output_style": "alert",
+    "prefix": "⚠️ 緊急要約：",
+    "suffix": "（緊急対応が必要です）"
+  }
+}
